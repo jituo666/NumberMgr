@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="intercept_sms">已拦截短信</string>
+    <string name="intercept_calls">已拦截电话</string>
+    <string name="intercept_blacklist">黑名单</string>
+    <string name="intercept_clear_all">清空</string>
+    <string name="intercept_add">添加黑名单</string>
+    <string name="intercept_delete">删除</string>
+    <string name="intercept_setting_title">电话拦截设置</string>
+    <string name="intercept_switch_on">启用电话拦截</string>
+    <string name="intercept_switch_off">关闭电话拦截</string>
+    <string name="intercept_switch">电话拦截开关</string>
+    <string name="intercept_ringtone">电话拦截提示音</string>
+
+    <string-array name="intercept_ringtone_list_preference">
+        <item>忙音等待</item>
+        <item>已关机</item>
+        <item>已停机</item>
+        <item>空号</item>
+    </string-array>
+    <string-array name="intercept_blacklist_add_entries">
+        <item>从通话记录添加</item>
+        <item>从联系人列表添加</item>
+        <item>从短信列表添加</item>
+        <item>手动添加</item>
+    </string-array>
+
+</resources>

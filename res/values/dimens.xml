@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Android OS dimensions -->
+    <dimen name="app_icon_size">48dp</dimen>
+    <dimen name="status_bar_height">25dip</dimen>
+    <dimen name="float_window_icon_size">40dp</dimen>
+    <dimen name="float_window_image_size">90dp</dimen>
+
+    <!-- Font Size -->
+    <dimen name="common_font_size_small">12dp</dimen>
+    <dimen name="common_font_size_medium">14dp</dimen>
+    <dimen name="common_font_big">18dp</dimen>
+    <dimen name="common_font_super_big">24dp</dimen>
+
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2008 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+
+<!-- This is a primitive example showing the different types of preferences available. -->
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/settings_location_show" >
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="inc_show"
+            android:summary="@string/settings_incoming_show_summary"
+            android:switchTextOff="@string/settings_common_off"
+            android:switchTextOn="@string/settings_common_on"
+            android:title="@string/settings_incoming_show" />
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="out_show"
+            android:summary="@string/settings_outgoing_show_summary"
+            android:switchTextOff="@string/settings_common_off"
+            android:switchTextOn="@string/settings_common_on"
+            android:title="@string/settings_outgoing_show" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/settings_ip_dialer" >
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="ip_dialer_enbled"
+            android:summary="@string/settings_ip_prefix__switch_summary"
+            android:switchTextOff="@string/settings_common_disabled"
+            android:switchTextOn="@string/settings_common_enabled"
+            android:title="@string/settings_ip_prefix_switch" />
+
+        <ListPreference
+            android:dependency="ip_dialer_enbled"
+            android:dialogTitle="@string/settings_ip_prefix"
+            android:entries="@array/entries_list_preference"
+            android:entryValues="@array/entries_list_preference"
+            android:key="ip_prefix"
+            android:summary="@string/settings_ip_prefix_summary"
+            android:title="@string/settings_ip_prefix" />
+
+        <EditTextPreference
+            android:dependency="ip_dialer_enbled"
+            android:dialogTitle="@string/settings_ip_aread_id_setting"
+            android:key="ip_loc"
+            android:summary="@string/settings_ip_aread_id_setting"
+            android:title="@string/settings_ip_aread_id" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/intercept_setting_title" >
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="intercept_enabled"
+            android:summary="@string/intercept_switch_on"
+            android:switchTextOff="@string/settings_common_disabled"
+            android:switchTextOn="@string/settings_common_enabled"
+            android:title="@string/intercept_switch" />
+
+        <ListPreference
+            android:defaultValue=""
+            android:dependency="intercept_enabled"
+            android:dialogTitle="@string/intercept_ringtone"
+            android:entries="@array/intercept_ringtone_list_preference"
+            android:entryValues="@array/intercept_ringtone_list_preference"
+            android:key="intercept_ringtone"
+            android:summary="@string/settings_ip_prefix_summary"
+            android:title="@string/intercept_ringtone" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

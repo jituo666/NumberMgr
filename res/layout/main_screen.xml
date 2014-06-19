@@ -1,0 +1,86 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_screen_bkg"
+    android:baselineAligned="false"
+    android:orientation="horizontal"
+    android:padding="12dp" >
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/item_query_location"
+            style="@style/MyWidget.MainScreenItem" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:duplicateParentState="true"
+                android:src="@drawable/main_list_item_location" />
+
+            <TextView
+                style="@style/MyWidget.MainScreenItem.TextView"
+                android:text="@string/main_screen_query_location" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/item_common_numbers"
+            style="@style/MyWidget.MainScreenItem" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:duplicateParentState="true"
+                android:src="@drawable/main_list_item_number" />
+
+            <TextView
+                style="@style/MyWidget.MainScreenItem.TextView"
+                android:text="@string/main_screen_common_numbers" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/item_phone_intercept"
+            style="@style/MyWidget.MainScreenItem" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:duplicateParentState="true"
+                android:src="@drawable/main_list_item_intercept" />
+
+            <TextView
+                style="@style/MyWidget.MainScreenItem.TextView"
+                android:text="@string/main_screen_phone_intercept" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/item_global_settings"
+            style="@style/MyWidget.MainScreenItem" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:duplicateParentState="true"
+                android:src="@drawable/main_list_item_charge" />
+
+            <TextView
+                style="@style/MyWidget.MainScreenItem.TextView"
+                android:text="@string/main_screen_global_settings" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

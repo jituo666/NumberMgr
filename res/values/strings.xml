@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">号码管家</string>
+    <string name="common_ok">确定</string>
+    <string name="common_cancel">取消</string>
+    <string name="common_menu_search">搜索</string>
+    <string name="common_incoming_call">来电</string>
+    <string name="common_outgoing_call">去电</string>
+    <string name="common_missed_call">未接</string>
+    <string name="common_unkonw_call">未知</string>
+
+</resources>

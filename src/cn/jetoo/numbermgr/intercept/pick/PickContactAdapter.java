@@ -1,0 +1,96 @@
+package cn.jetoo.numbermgr.intercept.pick;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import android.content.Context;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.BaseAdapter;
+import android.widget.CheckBox;
+import android.widget.TextView;
+
+import cn.jetoo.numbermgr.R;
+import cn.jetoo.numbermgr.intercept.InterceptBLAdapter.InterceptBLViewHolder;
+import cn.jetoo.numbermgr.intercept.bean.BlackListItem;
+import cn.jetoo.numbermgr.query.codec.NaiveLocationCodec;
+
+public class PickContactAdapter extends BaseAdapter {
+
+    private List<ContactPickItem> mList;
+    private Context mContext;
+    private boolean mIsUsedForPicking = false;
+
+    public PickContactAdapter(Context context, boolean usedForPicking) {
+        mIsUsedForPicking = usedForPicking;
+        mList = new ArrayList<ContactPickItem>();
+        mContext = context;
+    }
+
+    public void setListItem(List<ContactPickItem> list) {
+        mList = list;
+        notifyDataSetChanged();
+    }
+
+    public void addItem(ContactPickItem item) {
+        mList.add(item);
+        notifyDataSetChanged();
+    }
+
+    @Override
+    public int getCount() {
+        return mList.size();
+    }
+
+    @Override
+    public ContactPickItem getItem(int position) {
+        return mList.get(position);
+    }
+
+    @Override
+    public long getItemId(int position) {
+        return position;
+    }
+
+    @Override
+    public View getView(int position, View convertView, ViewGroup parent) {
+        final InterceptBLViewHolder viewHolder;
+        if (convertView == null) {
+            convertView = LayoutInflater.from(mContext).inflate(R.layout.intercept_pick_list_item, null);
+            viewHolder = new InterceptBLViewHolder();
+            viewHolder.tvPhoneNumber = (TextView) convertView.findViewById(R.id.tv_phone_number);
+            viewHolder.tvPhoneName = (TextView) convertView.findViewById(R.id.tv_left_content);
+            viewHolder.tvLocation = (TextView) convertView.findViewById(R.id.tv_phone_location);
+            viewHolder.cbSelected = (CheckBox) convertView.findViewById(R.id.cb_selected);
+            convertView.setTag(viewHolder);
+        } else {
+            viewHolder = (InterceptBLViewHolder) convertView.getTag();
+        }
+        viewHolder.tvPhoneNumber.setText(mList.get(position).phoneNumber);
+        viewHolder.tvPhoneName.setText(mList.get(position).phoneName);
+        viewHolder.tvLocation.setText(NaiveLocationCodec.getInstance().getLocation(mList.get(position).phoneNumber));
+        if (mIsUsedForPicking) {
+            viewHolder.cbSelected.setChecked(mList.get(position).isSelected);
+            final int index = position;
+            viewHolder.cbSelected.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    viewHolder.cbSelected.setChecked(viewHolder.cbSelected.isChecked());
+                    mList.get(index).isSelected = viewHolder.cbSelected.isChecked();
+                }
+            });
+        } else {
+            viewHolder.cbSelected.setVisibility(View.GONE);
+        }
+        return convertView;
+    }
+
+    public class InterceptBLViewHolder {
+        TextView tvPhoneNumber;
+        TextView tvPhoneName;
+        TextView tvLocation;
+        CheckBox cbSelected;
+    }
+
+}

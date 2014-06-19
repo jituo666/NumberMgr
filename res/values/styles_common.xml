@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="MyWidget" parent="@android:style/Theme" />
+
+    <style name="MyWidget.MainScreenItem">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:background">@drawable/main_list_item_bg</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="MyWidget.MainScreenItem.TextView" parent="@android:style/TextAppearance.Holo.Widget.TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:textColor">@color/common_dark</item>
+        <item name="android:textSize">18dp</item>
+    </style>
+
+</resources>

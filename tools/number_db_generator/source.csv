@@ -1,0 +1,226 @@
+	360	360手机卫士	360手机卫士	com.qihoo360.mobilesafe	/360
+	360	360手机助手	360手机助手	com.qihoo.appstore	/.dir_com.qihoo.appstore
+	360	360桌面	360桌面	com.qihoo360.launcher	360launcher
+		365日历	365日历	com.rili.android.client	/365riliDownload
+		3D全景照相机	Photaf	obg1.PhotafPro	/Photaf
+		58同城	58同城	com.wuba	/wuba
+	91	91手机助手	91手机助手	com.dragon.android.pandaspace	/ndcommplatform
+		AA小说下载阅读器	AA小说下载阅读器	com.aareader	/aaRead
+		Adobe Photoshop Express	Adobe Photoshop Express	com.adobe.psmobile	/adobe/psmobile
+		Androxplorer	Androxplorer	net.adisasta.androxplorer	/AndroXplorer
+		Ankidroid	Ankidroid	com.ichi2.anki	/AnkiDroid
+电子书		Anyview阅读器	Anyview阅读器	com.anyview	Anyview
+电子书		Apabi Reader	Apabi Reader	com.founder.apabi.reader	ApabiReader
+		Astro	Astro	com.metago.astro	/tmp/.astro/
+		Beauty studio	Beauty studio	com.inmd.beautystudio	/Beauty Studio
+相片		Camera360	Camera360	vStudio.Android.Camera360	/Camera360
+		Canimals Diary	Canimals Diary	com.voozoo.canimals	/canimalsBackup
+		DatPiff Mobile	DatPiff Mobile	com.datpiff.mobile	/Music/DatPiff
+		Deer Hunter	Deer Hunter	com.glu.deerhuntnew	/glu/deerchal
+		Entrepreneur Mobile	Entrepreneur Mobile	com.handmark.mpp.entrep	/Handmark
+		Epocrates	Epocrates	com.epocrates	/epocrates
+		Espeak -TTS	Espeak -TTS	com.marvin.espeak	/espeak-data
+笔记		Evernote	Evernote	com.evernote	/Evernote
+		Extended Controls	Extended Controls	com.extendedcontrols	/extendedcontrols
+		ezPDF Reader	ezPDF Reader	udk.android.reader	/ezPDFReader
+		FBReader	FBReader	org.geometerplus.zlibrary.ui.android	/Books/.FBReader
+		Felleskatalogen	Felleskatalogen	sunnsoft.felleskatalogen	/FelleskatalogenData.tmp
+		Flash_Player	Flash_Player	com.adobe.flashplayer	/.adobe/Flash_Player
+		FolderOrganizer	FolderOrganizer	com.abcOrganizer	/FolderOrganizer
+		FreeMP3Droid	FreeMP3Droid	org.freemp3droid	/FreeMP3Droid
+		gamebox	gamebox	com.leefj.gamebox	/.gamebox
+电子书		ggbook	ggbook	jb.activity.mbook	/GGBook
+	3G门户	GO天气EX	goweatherEX	com.gau.go.launcherex.gowidget.weatherwidget	/GOWeatherEX
+	3G门户	GO桌面EX	GOLauncherEX	com.gau.go.launcherex	/GOLauncherEX
+		Hyper Jump	Hyper Jump	com.camelgames.hyperjump	/.camelgames/.jump
+电子书		iReader	iReader	com.chaozh.iReaderFree	iReader
+		iSpend	iSpend	com.sondaica.ispend	/iSpend
+		keepass	keepass	com.android.keepass	/keepass
+		layar	layar	com.layar	/layar
+	LBE	LBE安全大师	LBE	com.lbe.security	com.lbe.security
+相片		LINE相机	LINEcamera	jp.naver.linecamera.android	LINEcamera
+		MARCA	MARCA	com.iphonedroid.marca	/MARCA
+		moboplayer	moboplayer	com.clov4r.android.nil	/.mobo
+		Mongo Ringtone	Mongo Ringtone	mp3.multimedia.music.mongo.ringtones	/Ringtone
+		musicwizard	musicwizard	com.chen.mobile.music	/musicwizard
+		My cookbook	My cookbook	fr.cookbook	/Mes_Recettes
+		N多市场	Ndoo Market	com.nduoa.nmarket	/nDuoaMarket
+		openvpn	openvpn	de.schaeuffelhut.android.openvpn	/openvpn
+		oruxmaps	oruxmaps	com.orux.oruxmaps	/oruxmaps
+		Pho.to Lab	Pho.to Lab	vsin.t16_funny_photo	/Pho.to Lab
+相片		picasa	picasa	larry.zou.colorfullife	/picasa_tool
+		PicSay	PicSay	com.shinycore.picsaypro	/PicSay
+		picsin	picsin	com.photo.picsinphoto	/Picsin
+		plurQ free	plurQ free	mobi.qiss.plurq	/plurk.log
+视频		PPTV网络电视	PPTV网络电视	com.pplive.androidphone	/PPTV
+		pulse	pulse	com.alphonso.pulse	pulse
+	腾讯	QQ for PAD	QQ for PAD	com.tencent.android.pad	/apadqq-images
+	腾讯	QQ2012	QQ2012	com.tencent.mobileqq	/tencent/MobileQQ
+数据包	腾讯	QQ地图	QQ地图	com.tencent.map	/QQMap
+	腾讯	QQ订阅	QQ订阅	com.rss.activity	/qqrss
+	腾讯	QQ输入法	QQ输入法	com.tencent.qqpinyin	/tencent/QQInput
+	腾讯	QQ同步助手	QQ同步助手	com.tencent.qqpim	/.qqpim
+	腾讯	QQ阳光牧场	QQ阳光牧场	com.tencent.sunnyranch	/sunnyranch
+音乐	腾讯	QQ音乐	QQ音乐	com.tencent.qqmusic	/qqmusic
+	腾讯	QQ游戏大厅	QQ游戏大厅	com.tencent.qqgame	/.QQGame
+电子书	腾讯	QQ阅读	QQ阅读	com.qq.reader	/QQReader
+	腾讯	Q拍	Q拍	com.tencent.qqphoto	/qpai
+数据包	Gameloft	Real Football 2011	Real Football 2011	com.gameloft.android.TBFV.GloftR1HP.ML	/gameloft/games/realfootball2011
+		Root Explorer 	Root Explorer 	com.speedsoftware.rootexplorer	/SpeedSoftware
+		Scorecenter	Scorecenter	com.espn.score_center	/com.espn.score_center
+		SilverEdit	SilverEdit	com.silver.edit	/SilverEdit
+		soundhound	soundhound	com.melodis.midomiMusicIdentifier.freemium	/soundhound
+		Tagged	Tagged	com.taggedapp	/.tagtemp
+		TalkBox	TalkBox	com.gtomato.talkbox	/TalkBox
+		touchTalk	touchTalk	com.pentabreed.pentatouch	/touchTalk
+		Tumblr	Tumblr	com.tumblr	/Tumblr
+浏览器下载	优视	UC浏览器	UC Browser	com.UCMobile	/UCDownloads
+		UC迅雷	UC迅雷	uc.ucdl	/.ucdlres
+	优视	UC影音	UC影音	uc.ucplayer	/ucplayer
+电子书		Viva畅读	Viva	viva.reader	/viva2
+		xScope	xScope	sui.mRelease	/xScope
+		Yahoo mail	Yahoo mail	com.yahoo.mobile.client.android.mail	/Yahoo!/YMail
+		Yahoo Messenger	Yahoo Messenger	com.yahoo.mobile.client.android.im	/Yahoo!/Messenger
+		YiBo微博客户端	YiBo	net.dev123.yibo	/.yibo
+		ZAKER	ZAKER	com.myzaker.ZAKER_Phone	ZAKER
+数据包	Gameloft	阿凡达	Avatar	com.gameloft.android.GAND.GloftAVHP	/gameloft/games/Avatar
+		爱酷天气	icmweather	com.icoolme.android.weather	/.icmweather
+		爱米软件市场	爱米软件市场	com.aimi.appstore	/.aimi
+		安智市场	GoMarket	cn.goapk.market	/gomarket
+		傲游浏览器	Maxthon Browser	com.mx.browser	/MxBrowser
+		奥秘传说	Legends Arcana	com.littlekillerz.legendsarcana	/legendsarcana
+相片	百度	百度壁纸	百度壁纸	com.baidu.wallpaper	baidu_wallpaper
+数据包	百度	百度地图	百度地图	com.baidu.BaiduMap	BaiduMap
+相片	百度	百度魔图	PhotoWonder	cn.jingling.motu.photowonder	/photowonder
+	百度	百度身边	百度身边	com.baidu.shenbian	BaiduShenBian
+	百度	百度输入法	百度输入法	com.baidu.input	/baidu/ime
+浏览器下载	百度	百度搜索	百度搜索	com.baidu.searchbox	baidu/SearchBox/downloads
+音乐	百度	百度音乐	百度音乐	com.ting.mp3.android	Baidu_music
+应用	百度	百度应用	百度应用	com.baidu.appsearch	baidu/AppSearch/downloads
+	百度	百度云	百度云	com.baidu.netdisk	BaiduNetdisk
+电子书		百阅	百阅	com.byread.reader	/byread
+		布丁爱生活	布丁爱生活	iw.avatar	/.budingdoyen
+		布丁优惠券	布丁优惠券	cn.buding.coupon	.budingcoupon
+		超级短信	Handcent SMS	com.handcent.nextsms	/handcent
+		纯粹图片	JustPictures	com.justpictures	/JustPictures
+		大牛新闻	Nubi News	com.nubinews.chinareader	/NubiNews
+		大众点评	大众点评	com.dianping.v1	groupurchase
+数据包	Gameloft	地牢猎手	Dungeon Hunter	com.gameloft.android.GAND.GloftDUNQ.DungeonHunter	/gameloft/games/DungeonHunter
+数据包		地牢守护者	Dungeon Defenders	com.trendy.ddapp	/DunDef
+	点心	点心桌面极速版	点心桌面极速版	com.dianxinos.dxlauncher	.dxlauncher
+数据包	Gameloft	都市赛车5	asphalt5	com.gameloft.android.GAND.GloftAsphalt5.asphalt5	/gameloft/games/asphalt5
+数据包	Gameloft	都市赛车6	Asphalt6	com.gameloft.android.ANMP.GloftA6HP	/gameloft/games/asphalt6
+		豆果美食	豆果美食	com.douguo.recipe	/Douguo
+		短信传情	Qsms	info.laozhang.Qsms	/Qsms
+电子书		多看	多看	com.duokan.reader	DuoKan
+音乐		多米音乐	多米音乐	com.duomi.android	/DUOMI
+数据包	Gameloft	俄勒冈小道	Oregon Trail	com.gameloft.android.ANMP.GloftOTHP.ML	/gameloft/games/GloftOTHP
+		凡客	vancl	com.vancl.activity	/vancl
+		凤凰新闻	凤凰新闻	com.ifeng.news2	ifeng/news
+		凤凰周刊	凤凰周刊	youcan.reader	/ifeng_android
+数据包	高德	高德地图	高德地图	com.autonavi.minimap	/autonavi
+		果库	果库	com.guoku	Guoku_Android
+		海豚浏览器	Dolphin Browser	com.dolphin.browser.cn	/DolphinBrowserCN
+		海豚浏览器国际版	Dolphin Browser HD	mobi.mgeek.TunnyBrowser	/TunnyBrowser
+		海卓冲浪	HiSurfing	net.hidroid.hiapn.cn	/HiDroid_Net/HiAPN
+		海卓懒人记账	海卓懒人记账	net.hidroid.hibalance	HiDroid_Net/HiBalance
+		护卫角斗士	CastleGuard2	com.daveyounggames.CastleGuard2	/com.daveyounggames.CastleGuard2
+		机锋市场	机锋市场	com.mappn.gfan	/gfan
+		街机模拟器	Tiger Arcade	com.tiger.game.arcade2	/.ltiger/arcade
+	金山	金山电池医生	金山电池医生	com.ijinshan.kbatterydoctor	kbatterydoctor
+	金山	金山共享精灵	金山共享精灵	com.kismobile.webshare	/KISShare
+数据包	金山	金山快盘	livespace	cn.wps.livespace	/.livespace
+	金山	金山手机卫士	金山手机卫士	com.ijinshan.mguard	mosecurity
+		劲手快拼	jinshouinput	com.jinshou.jsinputmethod	/jinshou
+		精品便签本	Most It	com.mobiders.mostit	/mostit
+电子书		开卷有益	KingReader	com.kingreader.framework	/KingReader
+		开心网	Kaixin	com.kaixin001.activity	/kaixin001
+		口袋微博	口袋微博	com.android307.MicroBlog	/TwitterForSina
+音乐		酷狗音乐	酷狗音乐	com.kugou.android	kugou
+		快手下载	快手下载	com.kandian.hdtogoapp	/kuaishou
+数据包		快牙	zapya	com.dewmobile.kuaiya	zapya
+		懒人听书	懒人听书	bubei.tingshu	/tingshu
+数据包		老虎地图	老虎地图	com.tigerknows	/tigermap
+		老虎机slot machine	Slotmachine	com.apostek.SlotMachine.paid	/Slotmachine
+		乐淘	乐淘	com.letao.activity	letao2
+		麦当劳优惠券	麦当劳优惠券	wenhr.Mcdonalds	/Mcdonalds
+		美食达人	美食达人	com.yuelian.meishitai	/meishidaren
+相片		美图秀秀	美图秀秀	com.mt.mtxx.mtxx	/MTXX
+		迷人浏览器	Miren Browser	cn.miren.browser	/miren_browser
+	小米	米聊	米聊	com.xiaomi.channel	miliao
+电子书		蜜蜂读书	蜜蜂读书	com.szborqs.book	/.mobeeBook
+		蜜蜂新闻	Mobee News	oms.mspaces	/.mreader
+		名片全能王	名片全能王	com.intsig.BizCardReader	/bcr
+		蘑菇新闻	MoreGood News	com.i9i8.nanopage	/.nanopage
+		陌陌	陌陌	com.immomo.momo	immomo
+		墨迹天气	墨迹天气	com.moji.mjweather	/moji
+		木蚂蚁市场	木蚂蚁市场	com.mumayi.market.ui	/mumayi
+		能助手	能助手	com.mobile.neng.apps	/NengApps
+		飘信	WingLetter	com.piaomsg	/wingletter
+视频		奇艺影视	奇艺影视	com.qiyi.video	QIYIVideo
+		全国影讯	全国影讯	com.mtime	/Mtime
+		人脸混合器	Face Blender	obg1.FaceBlender	/FaceBlender
+		人人	人人	com.renren.mobile.android	Renren
+		三国杀	三国杀	com.bf.sgs	/snda/sdw
+数据包	Gameloft	史瑞克赛车	Shrek kart	com.gameloft.android.TBFV.GloftSKHP.ML	/gameloft/games/shrekkarting
+	腾讯	手机QQ2011	手机QQ	com.tencent.qq	/.QQ
+		手机QQ空间	Qzone	com.qzone	Tencent/Qzone
+浏览器下载	腾讯	手机QQ浏览器	手机QQ浏览器	com.tencent.mtt	/QQBrowser
+		手机毒霸	手机毒霸	com.ijinshan.duba	duba
+		手机迅雷	手机迅雷	xunlei.com	/thunder
+		搜房网	搜房网	com.soufun.app	/soufun
+	搜狐	搜狗输入法	搜狗输入法	com.sohu.inputmethod.sogou	/sogou
+	搜狐	搜狐微博	搜狐微博	com.cola.twisohu	Sohu/SohuMBlog
+电子书		塔读	塔读	com.tadu.android	/tadu
+数据包		钛备份	TitaniumBackup	com.keramidas.TitaniumBackup	TitaniumBackup
+	阿里	淘宝	淘宝	com.taobao.taobao	com.taobao.taobao
+	腾讯	腾讯视频	腾讯视频	com.tencent.qqlive	/.QQLive
+	腾讯	腾讯手机管家	腾讯手机管家	com.tencent.qqpimsecure	/QQSecureDownload
+	腾讯	腾讯微博	腾讯微博	com.tencent.WBlog	Tencent/weibo
+		腾讯微信	腾讯微信	com.tencent.mm	/Tencent/MicroMsg
+		天火浏览器	Skyfire	com.skyfire.browser	/skyfire
+	阿里	天猫商城	天猫商城	com.tmall.wireless	com.tmall.wireless
+音乐		天天动听	天天动听	com.sds.android.ttpod	/TTPod
+数据包		图吧地图	Mapbar MAP	com.mapbar.android.mapbarmap	/mapbar
+		图钉线条人	PinMan	uk.co.cwd.pinman	/pinman
+		土豆	土豆	com.tudou.android	/tudoucache
+视频		土豆	土豆	com.tudou.android	/tudou/offlinedata
+		瓦力流量	瓦力流量	com.wali.NetworkAssistant	wali
+应用		豌豆荚	豌豆荚	com.wandoujia.phoenix2	wandoujia
+		玩转四方	foursquare	com.joelapenna.foursquared	foursquare
+		万能记事本	Note Everything	de.softxperience.android.noteeverything	/noteeverything
+视频	网易	网易公开课	网易公开课	com.netease.vopen	/netease/vopen/course_download
+新闻	网易	网易新闻	网易新闻	com.netease.newsreader.activity	/netease
+电子书	网易	网易云阅读	网易云阅读	com.netease.pris	pris
+		蜗牛电视	蜗牛电视	com.ikan.ui	Ikan
+		我查查	我查查	com.wochacha	.wochachaCache
+数据包		嘻哈三国塔防	3 Kingdoms TD	com.joymasterrocks.ThreeKTD	/3KTD
+数据包	Gameloft	细胞分裂	Splinter Cell Conviction	com.netmite.andme.launcher.splinter_cell_convic	/gameloft/games/SCHP
+音乐		虾米音乐	虾米音乐	com.xiami	/xiami
+电子书	鲜果	鲜果读书	鲜果读书	com.xianguo.book	XianGuoBook
+数据包	Gameloft	现代战争2黑色飞马	Modern Combat 2: Black Pegasu 	com.gameloft.android.GAND.GloftBPHP.ML	/gameloft/games/GloftBPHP
+	小米	小米分享	小米分享	com.xiaomi.xshare	/xshare_downloads
+		小鸟爆破	Birzzle	com.enfeel.birzzle	Birzzle
+		新歌猎手	新歌猎手	com.javaeye.hkliya.downloader	/new_mp3
+微博保存	新浪	新浪微博	新浪微博	com.sina.weibo	sina/weibo/save
+微博下载	新浪	新浪微博	新浪微博	com.sina.weibo	sina/weibo/download
+		幸运破解器	幸运破解器	com.chelpus.lackypatch	LuckyPatcher
+数据包	Gameloft	兄弟连	Brothers in ArMilestone2 	com.gameloft.android.ANMP.GloftB2HM	/gameloft/games/bia2
+数据包	Gameloft	一起高尔夫	Letsgolf	com.gameloft.android.GAND.GloftLG09.LetsGolf	/gameloft/games/letsgolf
+		一起来猜词	Word With Friend	com.zynga.words	/burstlyImageCache
+		易行	易行	cn.etouch.etravel	/etouch
+数据包	Gameloft	鹰击长空	Tom Clancy's H.A.W.X	com.AirForce	/gameloft/games/hawx
+视频		优酷	优酷	com.youku.phone	/youku/offlinedata
+	盛大	优酷	切客	com.snda.uvanmobile	/qieke
+		友图	PhotoSola	cn.jingling.picblog	/.PhotoSola
+	网易	有道云笔记	有道云笔记	com.youdao.note	.YoudaoNote
+数据包		云词	云词	panso.remword	/Remword
+		云舟浏览器	Boat Browser	com.boatgo.browser	/BoatDownload
+电子书		眨眼阅读	winkreader	pirate.reader	/winkreader
+	百度	掌上百度	掌上百度	bdmobile.android.app	/baidu/.zhangbaicache
+电子书		掌上书院	掌上书院	com.mbook.android	/mbook
+		掌上应用汇	AppOnHand	com.yingyonghui.market	/Yingyonghui
+	正点	正点日历	正点日历	com.zdworks.android.zdcalendar	.ZDCalendar
+电子书	腾讯	追书达人	追书达人	com.soso.novel	/com.soso.novel
+电子书		字节社	字节社	tc.tangcha.book	.tangcha
+数据包	Gameloft	罪恶都市 迈阿密风云	Gangstar:Miami Vindication	com.gameloft.android.TBFV.GloftGMHP.ML	/gameloft/games/Gangstar2

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_more"
+        android:icon="@drawable/main_settings"
+        android:showAsAction="always"
+        android:title="@string/common_menu_search">
+        <menu>
+            <item
+                android:id="@+id/menu_more_settings"
+                android:showAsAction="ifRoom"
+                android:title="@string/main_screen_global_settings"/>
+            <item
+                android:id="@+id/menu_more_about"
+                android:showAsAction="ifRoom"
+                android:title="@string/main_screen_global_about"/>
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="main_screen_query_location">归属地查询</string>
+    <string name="main_screen_phone_intercept">电话拦截</string>
+    <string name="main_screen_common_numbers">常用号码</string>
+    <string name="main_screen_global_settings">设置</string>
+    <string name="main_screen_global_about">关于</string>
+
+</resources>

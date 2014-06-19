@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="settings_location_show">归属地显示设置</string>
+    <string name="settings_incoming_show">显示来电归属地</string>
+    <string name="settings_incoming_show_summary">在接通来电前，显示号码的归属地信息</string>
+    <string name="settings_outgoing_show">显示去电归属地</string>
+    <string name="settings_outgoing_show_summary">在拨打电话时，显示号码的归属地信息</string>
+    <string name="settings_ip_dialer">IP拨号设置</string>
+    <string name="settings_ip_prefix_switch">IP拨号开关</string>
+    <string name="settings_ip_prefix__switch_summary">启用IP拨号</string>
+    <string name="settings_ip_prefix">IP拨号前缀</string>
+    <string name="settings_ip_aread_id_setting">设置本地区号</string>
+    <string name="settings_ip_aread_id">本地区号</string>
+    <string name="settings_ip_prefix_summary">拨打长途电话时所添加的IP前缀</string>
+    <string name="settings_common_on">显示</string>
+    <string name="settings_common_off">关闭</string>
+    <string name="settings_common_enabled">启用</string>
+    <string name="settings_common_disabled">停用</string>
+
+    <string-array name="entries_list_preference">
+        <item>17951</item>
+        <item>10193</item>
+    </string-array>
+
+</resources>

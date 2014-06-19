@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="query_location">号码归属地</string>
+    <string name="query_location_hint">输入电话号码</string>
+    <string name="local_phone">固话号码</string>
+    <string name="phone_number_format_tip">请输入正确的电话号码</string>
+    <string name="no_phone_location_info">暂无此号码归属地信息</string>
+     <string name="location_call_log">通话归属地</string>
+    <string name="location_contact">联系人归属地</string>
+    <string name="location_sms">短信归属地</string>
+
+</resources>
